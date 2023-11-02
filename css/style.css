@@ -1,11 +1,18 @@
 /*MODIFICACIONES*/
 
 /*MENÚ*/
+
 img.logo-menu{
     margin: 0%;
     max-width:150px;
     max-height:30%;
   
+}
+
+  a:hover.menufooter {
+    color:aliceblue;
+    background-color: transparent;
+    text-decoration: underline;
   }
 
  .boton{
